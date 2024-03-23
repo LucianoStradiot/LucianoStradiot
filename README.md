@@ -19,12 +19,12 @@ I am a passionate software developer with solid knowledge in a wide range of web
 
 ## Featured Projects
 
-### Petgram
+### [Petgram](https://github.com/LucianoStradiot/Petgram)
 
 Social network exclusively for pets where the user can create profiles for their pets and interact with others
 through posts, comments, chats, etc. Developed in ReactJs + Vite, NodeJs and PostgreSQL
 
-### MegaRocket Gim
+### [MegaRocket](https://github.com/LucianoStradiot/MegaRocket-app)
 
 Web application developed for a gym with different roles for administration. Developed in NodeJs, ReactJs
 and MongoDb as the database system.
